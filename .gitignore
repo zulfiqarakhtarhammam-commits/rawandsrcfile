@@ -1,0 +1,7 @@
+*:Zone.Identifier
+__pycache__/
+*.pyc
+build/
+install/
+log/
+*.egg-info/
